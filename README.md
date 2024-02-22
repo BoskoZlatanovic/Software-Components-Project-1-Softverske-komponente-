@@ -29,24 +29,3 @@ CLI Program
 File Handling
 
     Functions to load and save schedules in various formats (JSON, CSV) with flexible configurations.
-
-Getting Started
-
-    [Instructions on how to set up and use the library, including code snippets]
-
-Requirements
-
-    Java [specific version]
-    [Any other dependencies]
-
-Installation
-
-    Instructions on how to install and integrate the library into your Java project.
-
-Contributing
-
-    Guidelines on how to contribute to the library.
-
-License
-
-    Information about the project's license.
